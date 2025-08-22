@@ -109,5 +109,3 @@ python submit_project.py --name "Your Name" --email "your.email@example.com"
 
 **Good luck! May your agent negotiate with skill and style.**
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/70191914/c01d4a6f-b75b-4171-8a92-94f469379795/paste.txt)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/70191914/854e5aae-96cb-417e-99b7-e1f8d60ccc89/WhatsApp-Image-2025-08-22-at-15.01.44_62641df9.jpg)

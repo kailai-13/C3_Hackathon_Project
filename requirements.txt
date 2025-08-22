@@ -1,0 +1,3 @@
+concordia
+sentence-transformers
+ollama

@@ -1,5 +1,3 @@
-# README.md
-
 ## Concordia Buyer Agent Project
 
 This repository contains an **AI-powered buyer agent** built with Google DeepMind's Concordia framework. The agent negotiates for perishable goods (such as mangoes) against an intelligent seller, aiming to maximize savings, maintain personality consistency, and close deals efficiently.
